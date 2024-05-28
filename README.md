@@ -11,3 +11,8 @@
 
 ### Aufgabe 5:
 ![alt text](screenshots/aufgabe5.png)
+
+### Aufgabe 6:
+Link zum Pull Request:
+
+https://github.com/edlich/education/pull/501
